@@ -17,8 +17,8 @@
 <hr>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
   <ul style="list-style: none;">
-    <li>👨‍🎓 I’m currently working as <strong>Computer Engineer</strong> in <a href="https://www.ltvco.com/">LTV</a> </li>
-    <li>🌱 I’m currently learning <strong>Embulk,AWS,Kubernetes,Golang,Docker...</strong></li>
+    <li>👨‍🎓 I’m currently working as a <strong>Computer Engineer</strong> in <a href="https://www.ltvco.com/">LTV</a> as part of the DataEngineering Team</li>
+    <li>🌱 I’m learning how to use <strong>Embulk,AWS,Kubernetes,Golang,Docker...</strong></li>
     <li>📫 How to reach me <strong>andrewjosegutierrezcastro@gmail.com<strong></li>
   </ul>
 
